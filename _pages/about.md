@@ -18,6 +18,10 @@ Research
 In RCGM, I lead a group specialising in the modelling, management, and control of energy storage systems, with a particular emphasis on rechargeable batteries.
 + **We are actively seeking talented and self-motivated students, postdoctoral researchers and visiting scholars, who have a keen interest in energy storage research. If you are passionate about this field and wish to join our team, please do not hesitate to reach out to me or Professor C. Y. Chung.**
 
+Teaching
+=====
++ Sep 2024 - Dec 2024， EE546 Electric Energy Storage and New Energy Sources for Electric Vehicles (with Dr Wei Liu)
++ Jan 2025 - Dec 2025， EE548 Advanced Electric Vehicle Technology (with Dr Wei Liu)
 
 
 
