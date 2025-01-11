@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Your Sidebar Name"
+  name             : "Jinpeng Tian (田金鹏)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "jinpeng.tian@polyu.edu.hk" 
