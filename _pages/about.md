@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I currently serve as a Research Assistant Professor at the Research Centre for Grid Modernisation (RCGM) within the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University. 
+I currently serve as a Research Assistant Professor at the [Research Centre for Grid Modernisation (RCGM)] (https://www.polyu.edu.hk/rcgm/) within the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University. 
 I lead a group specialising in the modelling, management, and control of energy storage systems, with a particular emphasis on rechargeable batteries.
 
 I earned my Ph.D. degrees in Mechanical Engineering in 2021 and Electrical Engineering in 2022 from the Beijing Institute of Technology, China, and Swinburne University of Technology, Australia, respectively, under the supervision of Professor Rui Xiong and Professor Weixiang Shen. From 2023 to 2024, I worked as a postdoctoral research fellow at The Hong Kong Polytechnic University (PolyU), Hong Kong. I previously held the role of Teli Postdoctoral Fellow at the Beijing Institute of Technology, China, from 2021 to 2023.
