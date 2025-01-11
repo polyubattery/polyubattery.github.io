@@ -20,8 +20,8 @@ In RCGM, I lead a group specialising in the modelling, management, and control o
 
 Teaching
 =====
-+ Sep 2024 - Dec 2024， EE546 Electric Energy Storage and New Energy Sources for Electric Vehicles (with Dr Wei Liu)
-+ Jan 2025 - Dec 2025， EE548 Advanced Electric Vehicle Technology (with Dr Wei Liu)
++ Sep 2024 - Dec 2024, EE546 Electric Energy Storage and New Energy Sources for Electric Vehicles (with Dr Wei Liu)
++ Jan 2025 - Dec 2025, EE548 Advanced Electric Vehicle Technology (with Dr Wei Liu)
 
 
 
