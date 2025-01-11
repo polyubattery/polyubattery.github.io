@@ -16,7 +16,7 @@ I has published over 30 papers as either the first or corresponding author in to
 
 News
 ======
-+ **We are actively seeking talented and self-motivated individuals, including students and postdoctoral researchers, who have a keen interest in energy storage research. If you are passionate about this field and wish to join our team, please do not hesitate to reach out to me or Professor C. Y. Chung.**
++ **We are actively seeking talented and self-motivated students, postdoctoral researchers and visiting scholars, who have a keen interest in energy storage research. If you are passionate about this field and wish to join our team, please do not hesitate to reach out to me or Professor C. Y. Chung.**
 
 Getting started
 ======
