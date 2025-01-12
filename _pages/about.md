@@ -13,10 +13,14 @@ I earned my Ph.D. degrees in Mechanical Engineering in 2021 and Electrical Engin
 I has published over 30 papers as either the first or corresponding author in top-tier journals, including Joule and Nature Communications. My publications have been cited over 4500 times, including 10 ESI highly cited papers. I has been the PI of three research projects funded by government agencies and a collaborator on another three projects. I was ranked among the "World's Top 2% of Scientists" by Stanford University and Elsevier. I also received the “Fellowship of China National Postdoctoral Program for Innovative Talents” from the China Postdoctoral Science Foundation and the "Outstanding Doctoral Thesis Award" from the China Electrotechnical Society.
 
 
-Research
+Research Interests
 ======
 In RCGM, I lead a group specialising in the modelling, management, and control of energy storage systems, with a particular emphasis on rechargeable batteries.
+
 **We are actively seeking talented and self-motivated students, postdoctoral researchers and visiting scholars, who have a keen interest in energy storage research. If you are passionate about this field and wish to join our team, please do not hesitate to reach out to me or Prof C. Y. Chung.**
+
++ Topic 1: Modelling, monitoring and management of energy storage systems.
++ Topic 2: Optimal control of energy storage systems and vehicle to grid. 
 
 Teaching
 =====
